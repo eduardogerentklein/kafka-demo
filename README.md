@@ -3,6 +3,7 @@
 1. Iniciando o Zookeeper
 
 ```
+cd kafka_2.12-2.2.0
 Linux/Osx: bin/zookeeper-server-start.sh ../config/zookeeper.properties
 Windows: bin/windows/zookeeper-server-start.bat ../config/zookeeper.properties
 ```
