@@ -2,6 +2,9 @@
 
 1. Baixe o Apache Kafka e descompacte em um diretório da sua máquina
 
+```
+https://www.apache.org/dyn/closer.cgi?path=/kafka/2.2.0/kafka_2.12-2.2.0.tgz
+```
 
 2. Iniciando o Zookeeper
 
